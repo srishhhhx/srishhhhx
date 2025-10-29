@@ -24,12 +24,11 @@ I have a solid foundation in statistics, which helps me approach data driven pro
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=flat&logo=huggingface&logoColor=white)  
 
-**Generative AI & LLMs**
+#### Generative AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-00897B?style=flat&logo=airtable&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4A148C?style=flat&logo=graph&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFB000?style=flat&logo=huggingface&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![VectorDBs](https://img.shields.io/badge/Vector%20Databases-Qdrant%20%7C%20Pinecone%20%7C%20FAISS-blue?style=flat)
 
 **Web & Development**  
