@@ -25,6 +25,7 @@ I have a solid foundation in statistics, which helps me approach data driven pro
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=flat&logo=huggingface&logoColor=white)  
 
 **Generative AI & LLMs**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-00897B?style=flat&logo=airtable&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4A148C?style=flat&logo=graph&logoColor=white)
