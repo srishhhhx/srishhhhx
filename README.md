@@ -11,6 +11,7 @@ I have a solid foundation in statistics, which helps me approach data driven pro
 
 ###  Tech Stack
 **Languages & Tools**  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
@@ -19,6 +20,7 @@ I have a solid foundation in statistics, which helps me approach data driven pro
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 
 **Machine Learning & AI**  
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-F05032?style=flat&logo=pytorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
@@ -32,6 +34,7 @@ I have a solid foundation in statistics, which helps me approach data driven pro
 ![VectorDBs](https://img.shields.io/badge/Vector%20Databases-Qdrant%20%7C%20Pinecone%20%7C%20FAISS-blue?style=flat)
 
 **Web & Development**  
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
